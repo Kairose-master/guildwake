@@ -1,0 +1,57 @@
+{
+  "generator": "Blender 5.2.1 LTS",
+  "source": "scripts/build_world.py",
+  "license": "MIT (original procedural assets)",
+  "externalGenerations": 0,
+  "assets": [
+    {
+      "file": "guild-island.glb",
+      "bytes": 424684,
+      "meshes": 180,
+      "triangles": 3720,
+      "sha256": "eda6e16183050c2bb4a99e74cc230a9537e3251058c23b7c16a6a359a8d4002c"
+    },
+    {
+      "file": "agent-0.glb",
+      "bytes": 24004,
+      "meshes": 6,
+      "triangles": 228,
+      "sha256": "4eb477d7103dcf452cc8879c2cf59a4190a3f098b286dc361e48f6651e043bd1"
+    },
+    {
+      "file": "agent-1.glb",
+      "bytes": 24008,
+      "meshes": 6,
+      "triangles": 228,
+      "sha256": "10e425114546bcbbfbf043fe11fb6ff0f092734a25059ed4a57dcab3202b2636"
+    },
+    {
+      "file": "agent-2.glb",
+      "bytes": 24008,
+      "meshes": 6,
+      "triangles": 228,
+      "sha256": "a83c0be6f1c55461853527d90542ccc8f11b42d9485e69143259d9c2ff5de012"
+    },
+    {
+      "file": "agent-3.glb",
+      "bytes": 24008,
+      "meshes": 6,
+      "triangles": 228,
+      "sha256": "24f8b7ae2a8a6809f27d7ff0637d718357475757236c803aace816becea405f7"
+    },
+    {
+      "file": "hall-level-2.glb",
+      "bytes": 14376,
+      "meshes": 9,
+      "triangles": 108,
+      "sha256": "2fccfc61aeee8846b9ff4a2cbb07a82108b487b17a92218f8f0fe7fee809003c"
+    },
+    {
+      "file": "hall-level-3.glb",
+      "bytes": 10128,
+      "meshes": 5,
+      "triangles": 78,
+      "sha256": "66a7efe7c54e42ac7b8a26d75b2ff90ae7fa2658ae2b71f3d2fe008dfef6e89b"
+    }
+  ]
+}
